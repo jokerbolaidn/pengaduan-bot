@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables file (jika pakai .env lokal)
+.env
+
+# Google credentials file (jika sebelumnya pernah ada)
+credentials.json
+
+# Logs
+*.log
